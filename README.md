@@ -1,12 +1,12 @@
 # Mini Banking System • Core Banking & Ledger Engine
 
-[![Java](https://img.shields.io/badge/Java-21%20LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
+[![Java](https://img.shields.io/badge/Java-21_LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring_Security-JWT-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Tests](https://img.shields.io/badge/Tests-14%20Passed%20(100%25)-brightgreen?style=for-the-badge&logo=junit5&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Tests-14_Passed_(100%25)-brightgreen?style=for-the-badge&logo=junit5&logoColor=white)](https://github.com/Aman5ingh19/Mini-Banking-System)
 
 > **Notice**: Mini Banking System is an educational banking and financial transaction engine designed to demonstrate database transaction atomicity, pessimistic concurrency control, cryptographic idempotency, and double-entry bookkeeping. All funds and accounts are strictly simulated demo assets.
 
